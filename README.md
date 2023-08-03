@@ -5,7 +5,7 @@ I am a full stack developer.
 --------------------------
 
 *   🌍  I'm based in New Delhi, India
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://yugaank-kalia.github.io/yugaankkalia/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://yugaank.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
