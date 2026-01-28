@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a full stack developer.
 --------------------------
 
-*   🌍  I'm based in New Delhi, India
+*   🌍  I'm based in College Park, MD
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://yugaank.netlify.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning Applied Machine Learning @ UMD
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
