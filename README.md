@@ -21,6 +21,15 @@ I am a full stack developer.
  <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python"/></a>
 
 ### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/yugaank-kalia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-<p align="left"> <a href="https://yugaank.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/474472/portfolio.svg" width="32" height="32" /></a> </p>
+<div style="display:flex; gap:24px;">
+  <a href="https://www.linkedin.com/in/yugaank-kalia/"
+     target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+         width="32" height="32" />
+  </a>
+  <a href="https://yugaank.com/"
+     target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/474472/portfolio.svg"
+         width="32" height="32" />
+  </a>
+</div>
