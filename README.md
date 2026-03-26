@@ -7,7 +7,7 @@ I am a full stack developer.
 *   🌍  I'm based in College Park, MD
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://yugaank.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning Applied Machine Learning @ UMD
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🤝  I'm open to collaborating on interesting projects as a developers
 
 ### Skills
 
@@ -19,17 +19,3 @@ I am a full stack developer.
  <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/369457/nextjs.svg" alt="Next js" width="36" height="36" /></a> &nbsp;
  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp;
  <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python"/></a>
-
-### Socials
-<div style="display:flex; gap:24px;">
-  <a href="https://www.linkedin.com/in/yugaank-kalia/"
-     target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-         width="32" height="32" />
-  </a>
-  <a href="https://yugaank.com/"
-     target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/474472/portfolio.svg"
-         width="32" height="32" />
-  </a>
-</div>
